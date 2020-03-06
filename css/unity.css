@@ -1,0 +1,322 @@
+.general{
+    width: 100%;
+    height: 1530px;
+    position: absolute;
+    top: 362px;
+    margin-left: -4px;
+    background-color: #f5fcfd;
+    
+}
+
+.productos{
+    width: 94%;
+    height: 360px;
+    display: flex;
+    position: relative;
+    background-color: #f5fcfd;
+    
+   
+    
+}
+#super{
+    width: 100%;
+    height: 170%;
+    position: relative;
+    border-top-left-radius:12px 9px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 9px 9px;
+    
+    
+}
+.baquetina{
+    width: 50%;
+    position: relative;
+    z-index: 1;
+    top: -12px;
+    left: 230px;
+    background: linear-gradient(to right, rgba(245, 255, 255, 0),
+                                          rgba(245, 255, 255, 0.726) );
+    text-align: center;
+}
+.baquetina p{
+    position: relative;
+    left: 33px;
+    
+    
+}
+#super1{
+    position: relative;
+    display: flex;
+    width: 92%;
+    height: 470px;
+    left: 22px;
+    top: -125px;
+    border-radius:570px;
+    border:6px solid yellow;
+
+}
+#super2{
+    width: 100%;
+    position: absolute;
+    padding-top: 40px;
+    margin-top: -50px;
+    height: 248px;
+    top: 460px;
+    left: 60px;
+    
+
+}
+#last1{
+    position: absolute;
+    top: -237px;
+    left: 28px;
+    width: 52%;
+    height: 23px;
+    font-size: 22px;
+    
+    
+}
+
+#lito1{
+    position: absolute;
+    top: -221px;
+    width: 16%;
+    height: 27px;
+    left: -22px;
+    font-size: 12px;
+}
+.p{
+    margin-left: 7px;
+    position: relative;
+    border-top-left-radius:12px 9px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 9px 9px;
+    width: 50%;
+    margin: auto;
+    height: 460px;
+    padding: 13px;
+    background-color: #f5fcfd;
+}
+.p img{
+    width: 80%;
+    height: 30%;
+    position: relative;
+    left: 22px;
+    border-top-left-radius:12px 9px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 9px 9px;
+}
+.bigbox{
+    width: 100%;
+    height: 70%;
+    position: relative;
+    bottom: 164px;
+    left: -197px;
+}
+#bigboxs2{
+    position: relative;
+    top: -125px;
+
+}
+#big3{
+    position: relative;
+    top: -100px;
+    
+
+
+}
+.pre{
+    width: 100%;
+    height: 20%;
+    position: relative;
+    left: 200px;
+}
+.cajita124{
+    background-color: yellow;
+    width: 93%;
+    height: 55%;
+    margin-top: 88px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-top: 1px;
+    position: absolute;
+    top: -62px;
+
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cajita124 p{
+    position: relative;
+    left: 50%;
+}
+.cajita241{
+    display: block;
+    z-index: 1;
+    margin-top: 5px;
+    padding-top: 5px;
+    width: 40%;
+    height: 27px;
+    background-color: red;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 52%, 0% 0%);
+    position: absolute;
+    top: 22px;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+}
+#p1{
+    margin-top: 8px;
+}
+.text12{
+    margin-top: 1px;
+    position: relative;
+    left: 143px;
+    top: 7px;
+
+}
+.text---2{
+    position: relative;
+    margin-top: -3px;
+    top: -66px;
+
+}
+.azulito{
+    width: 77px;
+    height: 34px;
+    background: linear-gradient(#5eace0,#6da9d1,black,black);
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    transform: rotate(360deg);
+    font-size: 14px;
+    position: relative;
+    top: -36px;
+}
+.azulito span{
+
+    color: white;
+}
+.last{
+    background-color: yellow;
+    width: 85%;
+    height: 46%;
+    top: -1px;
+    margin-top: 15px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-top: 5px;
+    position: relative;
+}
+.last p{
+    position: relative;
+    left: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#p2{
+    margin-top:372px;
+    border-top-left-radius:12px 9px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 9px 9px;
+}
+#n4{
+    position: relative;
+    top: 72px;
+    margin-top: -262px;
+    border-top-left-radius:12px 9px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 9px 9px;
+}
+#n3{
+    position: relative;
+    top: 72px;
+    margin-top: -262px;
+    border-top-left-radius:12px 9px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 9px 9px;
+}
+#n2{
+    position: relative;
+    top: 72px;
+    height: 470px;
+    margin-top: -265px;
+    border: 3px solid red;
+    border-top-left-radius:12px 9px ;
+    border-top-right-radius: 12px 12px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 9px 9px;
+    background-color: #FFFFCC;
+}
+#same{
+    margin-top: -121px;
+    width: 49%;
+    height: 110%;
+}
+#sametext{
+    font-size: 13px;
+    position: relative;
+    top: -3px;
+}
+#sametext2{
+    font-size: 12px;
+}
+#samebig{
+    position: relative;
+    top: -90px;
+    width: 110%;
+    height: 300px;
+    margin-top: -12px;
+}
+#sameazul{
+    width: 22%;
+    height: 60%;
+    position: relative;
+    top: -35px;
+
+}
+#sameyellow{
+    margin-top: 7px;
+}
+#sameyellow p{
+    margin-top: -4px;
+    
+}
+
+#p3{
+    margin-top: -40px;
+}
+.rojito{
+    width: 112%;
+    height: 43px;
+    position: relative;
+    top: -13px;
+    left: -14px;
+    background-color: red;
+    border-bottom-left-radius: 7px 7px;
+    border-bottom-right-radius: 7px 7px;
+    border-top-left-radius: 5px 5px;
+    border-top-right-radius: 5px 5px;
+    border-top: 9px 9px;
+
+}
+.rojito p{
+    text-align: center;
+    color: white;
+    font-size: 41px;
+    position: relative;
+    top: -7px;
+}
+#prices{
+    position: relative;
+    top: -60px;
+    height: 280px;
+}
+#prices2{
+    position: relative;
+    top: -102px;
+    height: 280px;
+
+}

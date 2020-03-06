@@ -1,0 +1,1720 @@
+.imagen3 img{
+    width: 230px;
+    height: 140px;
+    position: relative;
+    top: -30px;
+    border-top-left-radius:8px 8px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 8px 8px;
+}
+.pequeña3 img{
+    width: 140px;
+    height: 60px;
+    position: relative;
+    top: -60px;
+    left: 50px;
+}
+.text1{
+    width: 100px;
+    height: 63px;
+    position: relative;
+    top: -95px;
+    font-size: 13PX;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text2{
+    width: 160px;
+    height: 50px;
+    font-size: 13PX;
+    position: relative;
+    top: -108px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.caja3{
+    width: 200px;
+    height: 110px;
+    position: relative;
+    top: -100px;
+    left: 60px;
+}
+.caja3>div{
+    position: relative;
+    margin: -192px;
+    top: 210px;
+    left: 300px;
+    width: 0px;
+    height: 144px;
+    border-left: 12px solid yellow;
+    border-right: 12px solid yellow;
+    border-bottom: 15px solid transparent;
+    transform: rotate(90deg);
+}
+.amar1 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar2 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar3 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar4 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.cajita1{
+    width: 140px;
+    height: 27px;
+    right: 410px;
+    background-color: red;
+    margin-top: -10px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: relative;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+}
+.cajita2{
+    width: 140px;
+    height: 27px;
+    right: 420px;
+    background-color: red;
+    margin-top: -10px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita3{
+    width: 140px;
+    height: 27px;
+    right: 460px;
+    background-color: red;
+    margin-top: -12px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita4{
+    width: 80px;
+    height: 29px;
+    right: 460px;
+    background: linear-gradient(#3498db,#3498db,black,black);
+    margin-top:-8px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+
+}
+.azul2 p{
+    color: white;
+    font-size: 12px;
+  
+  }
+
+
+  .imagen3 img{
+    width: 170px;
+    height: 130px;
+    position: relative;
+    top: -30px;
+    background-image: transparent;
+    border-top-left-radius:8px 8px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 8px 8px;
+}
+.pequeña3 img{
+    width: 140px;
+    height: 60px;
+    position: relative;
+    top: -60px;
+    left: 50px;
+}
+.text1{
+    width: 100px;
+    height: 63px;
+    position: relative;
+    top: -95px;
+    font-size: 13PX;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text2{
+    width: 160px;
+    height: 50px;
+    font-size: 13PX;
+    position: relative;
+    top: -108px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.caja3{
+    width: 200px;
+    height: 110px;
+    position: relative;
+    top: -100px;
+    left: 60px;
+}
+.caja3>div{
+    position: relative;
+    margin: -192px;
+    top: 210px;
+    left: 300px;
+    width: 0px;
+    height: 144px;
+    border-left: 12px solid yellow;
+    border-right: 12px solid yellow;
+    border-bottom: 15px solid transparent;
+    transform: rotate(90deg);
+}
+.amar1 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar2 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar3 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar4 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.cajita1{
+    width: 140px;
+    height: 27px;
+    right: 460px;
+    background-color: red;
+    top: 590px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+}
+.cajita2{
+    width: 140px;
+    height: 27px;
+    right: 460px;
+    background-color: red;
+    top: 626px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita3{
+    width: 140px;
+    height: 27px;
+    right: 460px;
+    background-color: red;
+    top: 660px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita4{
+    width: 80px;
+    height: 29px;
+    right: 460px;
+    background: linear-gradient(#3498db,#3498db,black,black);
+     top: 690px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    font-size: 12px;
+
+}
+.azul2 p{
+    color: white;
+    font-size: 12px;
+  
+  }
+
+
+  .imagen4 img{
+    width: 230px;
+    height: 140px;
+    position: relative;
+    top: -30px;
+    border-top-left-radius:8px 8px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 8px 8px;
+}
+.pequeña4 img{
+    width: 140px;
+    height: 60px;
+    position: relative;
+    top: -60px;
+    left: 50px;
+}
+.text1{
+    width: 100px;
+    height: 63px;
+    position: relative;
+    top: -95px;
+    font-size: 13PX;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text2{
+    width: 160px;
+    height: 50px;
+    font-size: 13PX;
+    position: relative;
+    top: -108px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.caja4{
+    width: 200px;
+    height: 110px;
+    position: relative;
+    top: -100px;
+    left: 60px;
+}
+.caja4>div{
+    position: relative;
+    margin: -192px;
+    top: 210px;
+    left: 300px;
+    width: 0px;
+    height: 144px;
+    border-left: 12px solid yellow;
+    border-right: 12px solid yellow;
+    border-bottom: 15px solid transparent;
+    transform: rotate(90deg);
+}
+.amar1 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar2 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar3 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar4 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.cajita-1{
+    width: 140px;
+    height: 27px;
+    right: 160px;
+    background-color: red;
+    top: 590px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+}
+.cajita-2{
+    width: 140px;
+    height: 27px;
+    right: 160px;
+    background-color: red;
+    top: 626px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita-3{
+    width: 140px;
+    height: 27px;
+    right: 160px;
+    background-color: red;
+    top: 660px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita-4{
+    width: 80px;
+    height: 29px;
+    right: 160px;
+    background: linear-gradient(#3498db,#3498db,black,black);
+     top: 690px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    font-size: 12px;
+}
+.azul4 p{
+    color: white;
+    font-size: 12px;
+  
+  }
+
+  
+  .imagen5 img{
+    width: 140px;
+    height: 140px;
+    position: relative;
+    top: -30px;
+    left: 90px;
+    border-top-left-radius:8px 8px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 8px 8px;
+}
+
+.textx1{
+    width: 100px;
+    height: 63px;
+    position: relative;
+    top: -172px;
+    font-size: 13PX;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.textx2{
+    width: 160px;
+    height: 50px;
+    font-size: 13PX;
+    position: relative;
+    top: -176px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.caja5{
+    width: 200px;
+    height: 110px;
+    position: relative;
+    top: -100px;
+    left: 60px;
+    border-left: 200px;
+}
+.caja5>div{
+    position: relative;
+    margin: -192px;
+    top: 142px;
+    left: 305px;
+    width: 0px;
+    height: 144px;
+    border-left: 12px solid yellow;
+    border-right: 12px solid yellow;
+    border-bottom: 15px solid transparent;
+    transform: rotate(90deg);
+}
+.amar1 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar2 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar3 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar4 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.cajita--1{
+    width: 140px;
+    height: 27px;
+    right: 1186px;
+    background-color: red;
+    top: 907px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+}
+.cajita--2{
+    width: 140px;
+    height: 27px;
+    right: 1186px;
+    background-color: red;
+    top: 940px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita--3{
+    width: 140px;
+    height: 27px;
+    right: 1186px;
+    background-color: red;
+    top: 973px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita--4{
+    width: 80px;
+    height: 29px;
+    right: 1182px;
+    background: linear-gradient(#3498db,#3498db,black,black);
+     top: 1005px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    font-size: 12px;
+}
+.azul4 p{
+    color: white;
+    font-size: 12px;
+  
+  }
+
+  .imagen6 img{
+    width: 110px;
+    height: 140px;
+    position: relative;
+    top: -30px;
+    left: 80px;
+    border-top-left-radius:8px 8px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 8px 8px;
+}
+.text-1{
+    width: 100px;
+    height: 63px;
+    position: relative;
+    top: -165px;
+    font-size: 13PX;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text-2{
+    width: 160px;
+    height: 50px;
+    font-size: 13PX;
+    position: relative;
+    top: -178px;
+    left: -22px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.caja6{
+    width: 200px;
+    height: 110px;
+    position: relative;
+    top: -100px;
+    left: 60px;
+}
+.caja6>div{
+    position: relative;
+    margin: -192px;
+    top: 153px;
+    left: 300px;
+    width: 0px;
+    height: 144px;
+    border-left: 12px solid yellow;
+    border-right: 12px solid yellow;
+    border-bottom: 15px solid transparent;
+    transform: rotate(90deg);
+}
+.amar1 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar2 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar3 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar4 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.cajas---1{
+    width: 140px;
+    height: 27px;
+    right: 756px;
+    background-color: red;
+    top: 910px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+}
+.cajas---2{
+    width: 140px;
+    height: 27px;
+    right: 756px;
+    background-color: red;
+    top: 940px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajas---3{
+    width: 140px;
+    height: 27px;
+    right: 756px;
+    background-color: red;
+    top: 973px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajas---4{
+    width: 80px;
+    height: 29px;
+    right: 756px;
+    background: linear-gradient(#3498db,#3498db,black,black);
+     top: 1005px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    font-size: 12px;
+}
+.azul6 p{
+    color: white;
+    font-size: 12px;
+  
+  }
+
+  .imagen7 img{
+    width: 110px;
+    height: 140px;
+    position: relative;
+    top: -30px;
+    left: 80px;
+    border-top-left-radius:8px 8px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 8px 8px;
+}
+.text-1{
+    width: 100px;
+    height: 63px;
+    position: relative;
+    top: -165px;
+    font-size: 13PX;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text-2{
+    width: 160px;
+    height: 50px;
+    font-size: 13PX;
+    position: relative;
+    top: -178px;
+    left: -22px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.caja7{
+    width: 200px;
+    height: 110px;
+    position: relative;
+    top: -100px;
+    left: 60px;
+}
+.caja7>div{
+    position: relative;
+    margin: -192px;
+    top: 153px;
+    left: 300px;
+    width: 0px;
+    height: 144px;
+    border-left: 12px solid yellow;
+    border-right: 12px solid yellow;
+    border-bottom: 15px solid transparent;
+    transform: rotate(90deg);
+}
+.amar1 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar2 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar3 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar4 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.cajas----1{
+    width: 140px;
+    height: 27px;
+    right: 456px;
+    background-color: red;
+    top: 910px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+}
+.cajas----2{
+    width: 140px;
+    height: 27px;
+    right: 456px;
+    background-color: red;
+    top: 942px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajas----3{
+    width: 140px;
+    height: 27px;
+    right: 456px;
+    background-color: red;
+    top: 976px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajas----4{
+    width: 80px;
+    height: 29px;
+    right: 456px;
+    background: linear-gradient(#3498db,#3498db,black,black);
+     top: 1007px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    font-size: 12px;
+}
+.azul7 p{
+    color: white;
+    font-size: 12px;
+  
+  }
+
+  .imagen8 img{
+    width: 125px;
+    height: 152px;
+    position: relative;
+    top: -30px;
+    left: 80px;
+    border-top-left-radius:8px 8px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 8px 8px;
+}
+.text-1{
+    width: 100px;
+    height: 63px;
+    position: relative;
+    top: -165px;
+    font-size: 13PX;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text-2{
+    width: 160px;
+    height: 50px;
+    font-size: 13PX;
+    position: relative;
+    top: -178px;
+    left: -22px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.num8{
+    margin-left: -200px;
+    width: 70%;
+
+}
+
+.caja8{
+    width: 200px;
+    height: 110px;
+    position: relative;
+    top: -100px;
+    left: 60px;
+}
+.caja8>div{
+    position: relative;
+    margin: -192px;
+    top: 143px;
+    left: 300px;
+    width: 0px;
+    height: 144px;
+    border-left: 12px solid yellow;
+    border-right: 12px solid yellow;
+    border-bottom: 15px solid transparent;
+    transform: rotate(90deg);
+}
+.amar1 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar2 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar3 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar4 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.cajas-----1{
+    width: 140px;
+    height: 27px;
+    right: 156px;
+    background-color: red;
+    top: 910px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+}
+.cajas-----2{
+    width: 140px;
+    height: 27px;
+    right: 156px;
+    background-color: red;
+    top: 944px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajas-----3{
+    width: 140px;
+    height: 27px;
+    right: 156px;
+    background-color: red;
+    top: 978px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajas-----4{
+    width: 80px;
+    height: 29px;
+    right: 156px;
+    background: linear-gradient(#3498db,#3498db,black,black);
+     top: 1010px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    font-size: 12px;
+}
+.azul8 p{
+    color: white;
+    font-size: 12px;
+  
+  }
+
+
+  
+  .imagen9 img{
+    width: 140px;
+    height: 140px;
+    position: relative;
+    top: -30px;
+    left: 90px;
+    border-top-left-radius:8px 8px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 8px 8px;
+}
+
+.tex1{
+    width: 100px;
+    height: 63px;
+    position: relative;
+    top: -165px;
+    font-size: 13PX;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tex2{
+    width: 160px;
+    height: 50px;
+    font-size: 13PX;
+    position: relative;
+    top: -178px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.num-8{
+    width: 20%;
+}
+.caja-8{
+    width: 200px;
+    height: 110px;
+    position: relative;
+    top: -100px;
+    left: 60px;
+}
+.caja-8>div{
+    position: relative;
+    margin: -192px;
+    top: 143px;
+    left: 300px;
+    width: 0px;
+    height: 144px;
+    border-left: 12px solid yellow;
+    border-right: 12px solid yellow;
+    border-bottom: 15px solid transparent;
+    transform: rotate(90deg);
+}
+.amar1 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar2 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar3 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar4 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.cajas-----1{
+    width: 140px;
+    height: 27px;
+    right: 156px;
+    background-color: red;
+    top: 910px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+}
+.cajas-----2{
+    width: 140px;
+    height: 27px;
+    right: 156px;
+    background-color: red;
+    top: 944px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajas-----3{
+    width: 140px;
+    height: 27px;
+    right: 156px;
+    background-color: red;
+    top: 978px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajas-----4{
+    width: 80px;
+    height: 29px;
+    right: 156px;
+    background: linear-gradient(#3498db,#3498db,black,black);
+     top: 1010px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    font-size: 12px;
+}
+.azul8 p{
+    color: white;
+    font-size: 12px;
+  
+  }
+
+
+  
+  .imagen9 img{
+    width: 140px;
+    height: 140px;
+    position: relative;
+    top: -30px;
+    left: 90px;
+    border-top-left-radius:8px 8px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 8px 8px;
+}
+
+.tex1{
+    width: 100px;
+    height: 63px;
+    position: relative;
+    top: -165px;
+    font-size: 13PX;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tex2{
+    width: 160px;
+    height: 50px;
+    font-size: 13PX;
+    position: relative;
+    top: -178px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.caja9{
+    width: 200px;
+    height: 110px;
+    position: relative;
+    top: -100px;
+    left: 60px;
+}
+.caja9>div{
+    position: relative;
+    margin: -192px;
+    top: 150px;
+    left: 400px;
+    width: 0px;
+    height: 144px;
+    border-left: 12px solid yellow;
+    border-right: 12px solid yellow;
+    border-bottom: 15px solid transparent;
+    transform: rotate(90deg);
+}
+.amar1 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar2 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar3 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar4 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.cajita_1{
+    width: 140px;
+    height: 27px;
+    right: 1086px;
+    background-color: red;
+    top: 1226px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+}
+.cajita_2{
+    width: 140px;
+    height: 27px;
+    right: 1086px;
+    background-color: red;
+    top: 1259px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita_3{
+    width: 140px;
+    height: 27px;
+    right: 1086px;
+    background-color: red;
+    top: 1293px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita_4{
+    width: 80px;
+    height: 29px;
+    right: 1092px;
+    background: linear-gradient(#3498db,#3498db,black,black);
+     top: 1325px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    font-size: 12px;
+}
+.azul9 p{
+    color: white;
+    font-size: 12px;
+  
+  }
+
+
+  .imagen10 img{
+    width: 110px;
+    height: 140px;
+    position: relative;
+    top: -60px;
+    left: 90px;
+    border-top-left-radius:8px 8px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 8px 8px;
+}
+
+.texx1{
+    width: 100px;
+    height: 63px;
+    position: relative;
+    top: -165px;
+    font-size: 13PX;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.texx2{
+    width: 160px;
+    height: 50px;
+    font-size: 13PX;
+    position: relative;
+    top: -178px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.caja10{
+    width: 200px;
+    height: 110px;
+    position: relative;
+    top: -100px;
+    left: 60px;
+}
+.caja10>div{
+    position: relative;
+    margin: -192px;
+    top: 150px;
+    left: 300px;
+    width: 0px;
+    height: 144px;
+    border-left: 12px solid yellow;
+    border-right: 12px solid yellow;
+    border-bottom: 15px solid transparent;
+    transform: rotate(90deg);
+}
+.amar1 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar2 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar3 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar4 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.cajita__x1{
+    width: 140px;
+    height: 27px;
+    right: 756px;
+    background-color: red;
+    top: 1227px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+}
+.cajita__x2{
+    width: 140px;
+    height: 27px;
+    right:756px;
+    background-color: red;
+    top: 1259px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita__x3{
+    width: 140px;
+    height: 27px;
+    right: 756px;
+    background-color: red;
+    top: 1293px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita__x4{
+    width: 80px;
+    height: 29px;
+    right: 762px;
+    background: linear-gradient(#3498db,#3498db,black,black);
+     top: 1325px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    font-size: 12px;
+}
+.azul10 p{
+    color: white;
+    font-size: 12px;
+  
+  }
+
+  .imagen11 img{
+    width: 100px;
+    height: 110px;
+    position: relative;
+    top: -40px;
+    left: 90px;
+    border-top-left-radius:8px 8px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 8px 8px;
+}
+
+.text11{
+    width: 100px;
+    height: 63px;
+    position: relative;
+    top: -145px;
+    font-size: 13PX;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text--2{
+    width: 160px;
+    height: 50px;
+    font-size: 13PX;
+    position: relative;
+    top: -138px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.caja11{
+    width: 200px;
+    height: 110px;
+    position: relative;
+    top: -100px;
+    left: 60px;
+}
+.caja11>div{
+    position: relative;
+    margin: -192px;
+    top: 180px;
+    left: 300px;
+    width: 0px;
+    height: 144px;
+    border-left: 12px solid yellow;
+    border-right: 12px solid yellow;
+    border-bottom: 15px solid transparent;
+    transform: rotate(90deg);
+}
+.amar1 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar2 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar3 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar4 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.cajita__1{
+    width: 140px;
+    height: 27px;
+    right: 456px;
+    background-color: red;
+    top: 1226px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+}
+.cajita__2{
+    width: 140px;
+    height: 27px;
+    right:456px;
+    background-color: red;
+    top: 1259px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita__3{
+    width: 140px;
+    height: 27px;
+    right: 456px;
+    background-color: red;
+    top: 1293px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita__4{
+    width: 80px;
+    height: 29px;
+    right: 462px;
+    background: linear-gradient(#3498db,#3498db,black,black);
+     top: 1325px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    font-size: 12px;
+}
+.azul11 p{
+    color: white;
+    font-size: 12px;
+  
+  }
+
+  .imagen12 img{
+    width: 90px;
+    height: 120px;
+    position: relative;
+    top: -40px;
+    left: 90px;
+    border-top-left-radius:8px 8px ;
+    border-top-right-radius: 6px 6px;
+    border-bottom-left-radius: 6px 6px;
+    border-bottom-right-radius: 8px 8px;
+}
+
+.text12{
+    width: 100px;
+    height: 63px;
+    position: relative;
+    top: -155px;
+    font-size: 13PX;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text---2{
+    width: 160px;
+    height: 50px;
+    font-size: 13PX;
+    position: relative;
+    top: -148px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.caja12{
+    width: 200px;
+    height: 110px;
+    position: relative;
+    top: -100px;
+    left: 60px;
+}
+.caja12>div{
+    position: relative;
+    margin: -192px;
+    top: 170px;
+    left: 300px;
+    width: 0px;
+    height: 144px;
+    border-left: 12px solid yellow;
+    border-right: 12px solid yellow;
+    border-bottom: 15px solid transparent;
+    transform: rotate(90deg);
+}
+.amar1 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar2 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar3 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.amar4 p{
+    color:black;
+    -webkit-transform: rotate(-90deg); 
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.cajita111{
+    z-index: 1;
+    width: 10%;
+    height: 27px;
+    background-color: red;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+}
+.cajita222{
+    width: 140px;
+    height: 27px;
+    right:156px;
+    background-color: red;
+    top: 1259px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita333{
+    width: 140px;
+    height: 27px;
+    right: 156px;
+    background-color: red;
+    top: 1293px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    text-align:center;
+
+}
+.cajita444{
+    width: 80px;
+    height: 29px;
+    right: 162px;
+    background: linear-gradient(#3498db,#3498db,black,black);
+     top: 1325px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 48%, 0% 0%);
+    position: absolute;
+    transform: rotate(360deg);
+    color: white;
+    font-size: 12px;
+}
+.azul12 p{
+    color: white;
+    font-size: 12px;
+  
+  }
